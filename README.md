@@ -1,7 +1,7 @@
 # Platform Side Scrolling Game Simulation
 Interactive Arts and Technology - IAT167 Final Project
 
-![Game Image](IceShot/data/intro1.png)
+![Game Image](iceshot.png)
 
 
 [Video Demo](https://www.youtube.com/watch?v=vC6UjPunI-8&t=266s)
